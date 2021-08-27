@@ -1,0 +1,37 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "text": "Center on :"
+      },
+      [
+        {
+          "text": "[X:"
+        },
+        {
+          "score": {
+            "name": ".#mt_X",
+            "objective": "mt_Xcoords_save"
+          },
+          "color": "light_purple"
+        },
+        {
+          "text": ";Z:"
+        },
+        {
+          "score": {
+            "name": ".#mt_Z",
+            "objective": "mt_Xcoords_save"
+          },
+          "color": "light_purple"
+        },
+        {
+          "text": "]"
+        }
+      ]
+    ],
+    "replace": true
+  }
+]
