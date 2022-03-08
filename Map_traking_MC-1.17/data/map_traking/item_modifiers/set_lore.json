@@ -12,8 +12,8 @@
         },
         {
           "score": {
-            "name": ".#mt_X",
-            "objective": "mt_Xcoords_save"
+            "name": "#centerMap",
+            "objective": "mt_Xcoords"
           },
           "color": "light_purple"
         },
@@ -22,8 +22,8 @@
         },
         {
           "score": {
-            "name": ".#mt_Z",
-            "objective": "mt_Xcoords_save"
+            "name": "#centerMap",
+            "objective": "mt_Zcoords"
           },
           "color": "light_purple"
         },

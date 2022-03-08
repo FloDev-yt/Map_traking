@@ -1,0 +1,1 @@
+tellraw @s {"text":"Vous ne pouvez pas utiliser une Map Traking dans une Cartography Table","color":"red","hoverEvent":{"action":"show_text","contents":["Pour copier une Map Tracking vous devez  la jeter au sol avec une carte vierge"]}}
