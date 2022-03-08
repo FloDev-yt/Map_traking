@@ -1,2 +1,0 @@
-execute as @a[scores={mt_nbMapT=0..}] run function map_traking:cartography_table/check_map
-execute if entity @a[scores={mt_nbMapT=0..},limit=1] run schedule function map_traking:cartography_table/check_1t 1t

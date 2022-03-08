@@ -38,7 +38,7 @@ L'utilisation de *la table de cartographie* reste inchangée à l'exception de l
 
 Pour l'installation de ce Datapack : 
 
-1) [**Map_traking_Datapack_MC-1.17.zip**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Map_traking/tree/MC-1.17_FR/Map_traking_MC-1.17&fileName=Map_traking_Datapack_MC-1.17&rootDirectory=false)
+1) [**Map_traking_Datapack_MC-1.17.zip**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Map_traking/tree/MC-1.17/Map_traking_Datapack_MC-1.17&rootDirectory=false)
 
     Comme un Datapack normal, vous n'étes pas obligé d'extraire ce fichier, il faudra le placer dans votre dossier Datapack : `YOUR_SAVE⁄Datapack⁄`
 
