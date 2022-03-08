@@ -1,0 +1,1 @@
+execute as @a[tag=mt_tp] at @s positioned ~ ~-500 ~ run function map_traking:cartography_table/tp_down

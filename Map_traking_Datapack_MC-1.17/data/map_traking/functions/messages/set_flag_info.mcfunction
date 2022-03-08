@@ -1,0 +1,2 @@
+advancement grant @s only map_traking:flag_info
+tellraw @s ["",{"text":"\n"},{"text":"Info nouvelle functionnalitée","bold":true,"color":"dark_green"},{"text":"\n"},{"text":"le Datapack : "},{"text":"Map traking","underlined":true,"color":"dark_aqua"},{"text":" rajoute la posibilité de crafter un nouveau type de carte, qui suivera automatique votre position."}]

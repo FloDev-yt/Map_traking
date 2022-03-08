@@ -9,9 +9,7 @@ Il vous permettra de couvrir un rayon de 20 992 blocs autour du [X=0,Z=0] avec 
 ### Le Craft
 Pour obtenir une **Map Traking**, il vous suffira de lancer au sol une **Enderperl** avec **une carte**, quel soit vierge ou déjà utilisée.
 
-<img src="https://static.wikia.nocookie.net/minecraftpocketedition/images/7/73/Map.gif/revision/latest/scale-to-width-down/160?cb=20170627214815" width="40" height="40" /> 
-<img src="https://e7.pngegg.com/pngimages/354/728/png-clipart-plus-and-minus-signs-computer-icons-emoji-logo-plus-thumbnail.png" width="30" height="30" />
-<img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Ender_Pearl_JE3_BE2.png/revision/latest?cb=20200512195721" width="40" height="40" />
+<img src="https://static.wikia.nocookie.net/minecraftpocketedition/images/7/73/Map.gif/revision/latest/scale-to-width-down/160?cb=20170627214815" width="40" height="40" /> <img src="https://e7.pngegg.com/pngimages/354/728/png-clipart-plus-and-minus-signs-computer-icons-emoji-logo-plus-thumbnail.png" width="30" height="30" /> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f6/Ender_Pearl_JE3_BE2.png/revision/latest?cb=20200512195721" width="40" height="40" />
 
 
 ### Utilisation
