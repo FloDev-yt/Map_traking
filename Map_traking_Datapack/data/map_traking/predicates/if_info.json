@@ -6,9 +6,7 @@
         "advancements": {
           "map_traking:flag_info": false
         },
-        "recipes": {
-          "minecraft:map": true
-        }
+        "nbt": "{Inventory:[{id:\"minecraft:ender_pearl\"}]}"
       }
     }
   }

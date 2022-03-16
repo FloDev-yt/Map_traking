@@ -36,9 +36,11 @@ L'utilisation de *la table de cartographie* reste inchangée à l'exception de l
 
 ## Téléchargement et installation
 
+*Pour Minecraft Java 1.17 & 1.18*
+
 Pour l'installation de ce Datapack : 
 
-1) [**Map_traking_Datapack_MC-1.17.zip**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Map_traking/tree/MC-1.17/Map_traking_Datapack_MC-1.17&rootDirectory=false)
+1) [**Map_traking_Datapack_MC-1.17-1.18.zip**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Map_traking/tree/MC-1.17/Map_traking_Datapack_MC-1.17-1.18&rootDirectory=false)
 
     Comme un Datapack normal, vous n'étes pas obligé d'extraire ce fichier, il faudra le placer dans votre dossier Datapack : `YOUR_SAVE⁄Datapack⁄`
 
