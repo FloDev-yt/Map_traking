@@ -40,11 +40,11 @@ L'utilisation de *la table de cartographie* reste inchangée à l'exception de l
 
 Pour l'installation de ce Datapack : 
 
-1) [**Map_traking_Datapack_MC-1.17-1.18.zip**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/FloDev-yt/Map_traking/tree/MC-1.17/Map_traking_Datapack_MC-1.17-1.18&rootDirectory=false)
+1) [**Map_traking_Datapack_MC-1.17-1.18_v0.4.zip**](https://github.com/FloDev-yt/Map_traking/releases/download/v0.4/Map_traking_Datapack_MC-1.17-1.18_v0.4.zip)
 
     Comme un Datapack normal, vous n'étes pas obligé d'extraire ce fichier, il faudra le placer dans votre dossier Datapack : `YOUR_SAVE⁄Datapack⁄`
 
-2) [**Maps.zip**](https://github.com/FloDev-yt/Map_traking/raw/MC-1.17/Maps.zip)
+2) [**Maps.zip**](https://github.com/FloDev-yt/Map_traking/raw/v0.4/Maps.zip)
 
     A extraire dans le dossier : `NEW_WORLD⁄data⁄` il ajoute 1682 nouvelles cartes 
 
